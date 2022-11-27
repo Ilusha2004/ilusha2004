@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I'm <a href="https://nearcrowd.com/starfish#" target="_blank">ILYA</a> ![](![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)))
+# <h1 align="center">Hi there, I'm <a href="https://nearcrowd.com/starfish#" target="_blank">ILYA</a> ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif))
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=100&color=59B7F7&background=5D5D5DA4&center=true&vCenter=true&multiline=true&width=435&lines=FAMCs+student)](https://git.io/typing-svg)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilusha2004&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilusha2004)](https://github.com/anuraghazra/github-readme-stats)
