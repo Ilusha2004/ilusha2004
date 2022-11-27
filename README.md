@@ -1,2 +1,2 @@
-# ilusha2004
-# ilusha2004
+# <h1 align="center">Hi there, I'm <a href="https://nearcrowd.com/starfish#" target="_blank">ILYA</a> 
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=FAMCs+student)](https://git.io/typing-svg)
